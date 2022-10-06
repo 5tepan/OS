@@ -1,0 +1,4 @@
+S -> bAH
+AH -> aA | cHS
+A -> aA | cHS
+HS -> bAH
